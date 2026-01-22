@@ -5,10 +5,10 @@ class config:
     #Client
     API_ID = 26249286
     API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
-    BOT_TOKEN = "8336737769:AAE24kSGKiuFyNVPBhclNY5YVhkitM-LEMQ"
-    BOT_NAME = "resile"
-    BOT_USERNAME = "riselia_xbot"
-    BOT_ID = 8336737769
+    BOT_TOKEN = "7978548850:AAHuPm3psGOjpWMoMjBqt-w1FgWkLyJvDW8"
+    BOT_NAME = "𝐑ᴀɪᴋᴀ 𝖝 𝐌ᴜsɪᴄ ᯤ̸ [ 𝐍ᴏ 𝐀ᴅs ]"
+    BOT_USERNAME = "Raikaxbot"
+    BOT_ID =  7978548850
     WORKERS = 20
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -27,7 +27,7 @@ class config:
     API_KEY = "30DxNexGenBots9d11bc"
     BOT_VERSION = "3.0"
     OWNER_ID = 6018803920
-    OWNER_USERNAME = "slayer1237"
+    OWNER_USERNAME = "NottyBcha"
     SUPPORT_CHAT = -1002745123292
     SUPPORT_CHAT_USERNAME = "https://t.me/+wBBJZa5IoEQ0ZmQ1"
     SUPPORT_CHAT_LINK = "https://t.me/+wBBJZa5IoEQ0ZmQ1"
@@ -40,7 +40,7 @@ class config:
     START_IMG_URL = "https://files.catbox.moe/xl7rni.jpg"
     HELP_IMG_URL = "https://files.catbox.moe/u8xpv1.jpg"
     ALIVE_IMG_URL = "https://files.catbox.moe/du3d0a.jpg"
-    SESSION_STRING = "BQFQez4AUECFnmhMLdXCB714R0-Ut98uqKJcXRg4KuXgpg0NOYI-tcbxytqTZ2Ctpv3Q14I7opOwyxXune-e0mejbKgRCaIesp1v259iGfqnTXdkhjwJDIxK_sw8hUkysU2-h_8zkJBsZ4LRQU8kFueYCjmUlryDeEnLLFawcXPHsssZFGQ8JtwQiNKzMx6daIYVs55ahau6mZyJqjM_1fwrxEBlwzr8-iCyAYM-Kd2olUrJFI9Ld9kM4CLcUsqi99mUVQsb9jNexZknaVp2dCmKlClXKuur2INoaL5KVAqLfzy2XUB_oLr-U1fI-26T3aQJyUcLuFvimNDK9FydsSiAR5r6uwAAAAHvExD6AA"
+    SESSION_STRING = "BQFNgbsAchUCEzQ3h6sO1Uq4hBTU6_iyk63t3GD6fQHGlkD4UTlqCI-Nyn_XyHb_6Crcus9ypbI6RHBv1cocx6QPCzGDAjLeWmb76-j8w5xBLxvm3XCkETp87AlT8tjv4wXFe_HPJENAfVrijndLXEYuoJFalIAXdLTSUu6nYEcQzN4HW0_PDpA9DKfRV7TdvVvprcn10ETsJD34yGRh6T_-pe6lCXG4F-dGmrLlkCVB0FZF2-lqE_yCux0chGbu55r5xLdUhOamCAh_e8I-2EDS2wuTiVO6mpMMwJLllZKMdSf9uaicOT3gyGMYBYUzxII_YtrG8jwE9H9VIDUv0C62faoQbgAAAAHjB6-9AA"
     
     MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
     DATABASE_NAME = "test"
